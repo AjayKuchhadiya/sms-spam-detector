@@ -2,3 +2,4 @@ streamlit
 pickle
 nltk 
 string
+gunicorn

@@ -1,2 +1,2 @@
 # sms-spam-detector
-This is a classification model which tells if a certain sms message is spam or non-spam
+Follow this link to see the live application : https://sms-spam-detector-1-10.onrender.com/

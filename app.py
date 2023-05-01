@@ -8,6 +8,8 @@ nltk.download('punkt')
 nltk.download('stopwords')
 nltk.download('corpus')
 
+app = st.container()
+
 ps = PorterStemmer()
 
 # function for preprocessing :
